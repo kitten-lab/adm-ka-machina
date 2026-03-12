@@ -60,6 +60,52 @@ Producing complex entity types become trivial:
 	      ven.District_B  
 	      ven.District_C
 
+## It Also Works for Abstract Things
 
----
+Because VENs can represent **concepts**, you can do stuff like:
+
+### Emotions
+	ven.Mira  
+	  contains:  
+	      ven.Fear
+
+### Memories
+	ven.Mira  
+	  contains:  
+	      ven.Memory_TavernFire
+
+### Culture
+	ven.District_A  
+	  contains:  
+	      ven.Symbol_RedRose
+
+Now the narrative engine can reason about **ideas the same way it reasons about objects**.
+
+Because containers can contain containers:
+
+```
+World  
+  contains District  
+District  
+  contains Tavern  
+Tavern  
+  contains Room  
+Room  
+  contains Mira
+```
+
+You automatically get **spatial hierarchy**.
+
+And because quests are containers:
+
+```
+Quest  
+  contains Event  
+Event  
+  contains Action
+```
+
+You also get **narrative hierarchy**.
+
+Same structure. Two different domains.
 
