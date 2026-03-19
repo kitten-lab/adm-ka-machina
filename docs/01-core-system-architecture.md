@@ -6,6 +6,45 @@
 AIDM (pronounced like *Adam*) is an AI Agent responsible for the management and organization of sprawling narratives played within the structure of MIRA. AIDM stands for AGENIC INTERACTIVE DREAM MODERATOR.
 
 ### Meet MIRA
+##### **One-law ontology** of [[MIRA]]:
+
+**Everything is a [[VEN]].**
+
+All attributes and functions of a ven emerge from **properties and dynamics**
+
+	VEN
+	  ├ properties
+	  └ dynamics
+
+[[EIDN]]’s world graph is a **uniform data model**.
+
+In place of separate systems like:
+
+	Item system  
+	Character system  
+	Quest system  
+	World system  
+	Event system
+
+[[MIRA]] only has:
+
+`VEN system
+
+And meaning comes from properties:
+
+	prop_isCharacter  
+	prop_canMove  
+	prop_canVend
+	propContainer_capacity  
+	prop_isSocial
+
+So the engine doesn't need a thousand hard-coded types.
+
+It just reasons about [[VEN]] relationships.
+
+Structurally **everything is the same *object of potential***.
+
+Only the **properties change the meaning**.
 
 If you zoom way out, MIRA is basically:
 
