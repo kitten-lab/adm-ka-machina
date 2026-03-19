@@ -1,3 +1,14 @@
+> “the more players are inside the game, the more the Vens get to live and become avens”
+ **beautiful emergent scaling mechanism**.
+
+It means:
+
+More players → more scenes → more agents activated → richer world history.
+
+So the world **literally becomes more alive with attention**.
+
+That mirrors how real societies work. A town with two people feels empty. A town with hundreds becomes full of overlapping stories.
+
 You said something subtle but important:
 
 > _“It’s an instance of a root identity.”_

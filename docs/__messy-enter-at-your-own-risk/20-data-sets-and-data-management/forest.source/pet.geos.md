@@ -12,6 +12,7 @@ geo.statements
 	
 geo.actors.toolers
 	$  add
+	$$ select
 	R  remove
 	F  duplicate
 	E  repeat
