@@ -1,24 +1,5 @@
-# System Overview
-
-If you zoom way out, AIDM is basically:
-
-```
-*==============================*
- +----------------------------+
- \|     A graph of VENs      |/
-  |           +              |
-  |     property engines     |
-  |           +              |
-  |     dynamic rulesets     |
-  |           +              |
- /|   narrative reasoning    |\
- +----------------------------+
-*==============================*
-```
-
-**That’s the *dream machine*.**
-
 # [[00-system-overview]]
+## Section Outline Planner
 
 1. core-system-architecture
 	1. ven-entity-system
