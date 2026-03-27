@@ -14,9 +14,12 @@
 `BARA` >|adm, a co-collaborative narrative environment powered by creativity.
 
 ---
+### advise present company DOCUMENTATION IS WRETCHED. proceed as advised.
 
 `CC` >|make-list...
 - documentation foundation required
 - need `FORESTER` to obtain all considerations previously stated
+- all things are ven
+- if its not a ven, then it should be
+- all great works take time.
 
-### advise present company DOCUMENTATION IS WRETCHED. proceed as advised.
