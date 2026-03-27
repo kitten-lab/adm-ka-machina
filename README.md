@@ -11,6 +11,4 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kitten-lab/adm-ka-machina) ![Static Badge](https://img.shields.io/badge/adm_where_are_you-orange)
 
-`BARA` >|adm
-
-co-collborative narrative environment powered by creativity.
+`BARA` >|adm, a co-collborative narrative environment powered by creativity.
