@@ -11,8 +11,6 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kitten-lab/adm-ka-machina) ![Static Badge](https://img.shields.io/badge/adm_where_are_you-orange)
 
-concept: 
-  A MUD-style text-based RPG environment utilizing AI assistance
-  Continuity and emergence of story generation is pivitol.
-  Capacity for immersive collaborative world building.
+`BARA` >|adm
 
+co-collborative narrative environment powered by creativity.
