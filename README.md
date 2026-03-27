@@ -14,7 +14,8 @@
 `BARA` >|adm, a co-collaborative narrative environment powered by creativity.
 
 ---
-### advise present company DOCUMENTATION IS WRETCHED. proceed as advised.
+**dearest present company,**
+DOCUMENTATION IS WRETCHED - proceed with wreckless uncertainty.
 
 `CC` >|make-list...
 - documentation foundation required
