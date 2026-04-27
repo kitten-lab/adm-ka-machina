@@ -1,0 +1,98 @@
+# ADM — Worlds, Universes, and Timelines
+
+ADM organizes playable space through a hierarchical structure of universes, worlds, and timeline instances.
+
+---
+
+## Universes
+
+A **Universe** is a high-level container that defines a broad setting or intellectual property.
+
+Examples:
+- Disney
+- Marvel
+- Dungeons & Dragons
+- Forgotten Realms
+
+A universe can contain multiple worlds, each representing different locations, themes, or narrative spaces within that universe.
+
+---
+
+## Worlds
+
+A **World** is a structured, playable environment defined by a creator.
+
+A world includes:
+- rules and logic that govern how it operates  
+- required locations or anchor points  
+- sets of Vens available within the world  
+- procedural generation rules for expanding the environment  
+
+Creators can define:
+- fixed elements (e.g. a specific city or landmark)
+- variable elements (e.g. procedurally generated towns, characters, or encounters)
+
+This allows a world to:
+> maintain identity while generating many variations of itself
+
+---
+
+## Base World States
+
+Creators may define multiple starting conditions for a world.
+
+Examples:
+- “before the war”
+- “after the war (outcome A)”
+- “after the war (outcome B)”
+
+These serve as distinct entry points for simulation.
+
+---
+
+## Timeline Instances (Servers)
+
+A **Timeline Instance** is a running version of a world.
+
+- Each instance represents a unique progression of events
+- It evolves based on player actions and system-driven outcomes
+- It functions similarly to a server or live simulation
+
+Multiple timeline instances can exist simultaneously from the same base world.
+
+---
+
+## Player Movement
+
+Players are not fixed to a single timeline.
+
+They can:
+
+- **Move between timelines**  
+  Jump between different instances of the same world
+
+- **Move between worlds**  
+  Enter different environments within the same universe
+
+- **Move between universes**  
+  Traverse entirely different narrative and rule systems
+
+When moving, the player carries:
+- their Ven (identity/state)
+- their Amen (agent within the system)
+
+This allows continuity of the player across different contexts.
+
+---
+
+## Summary
+
+ADM separates:
+- **world definition** (created once)
+from
+- **world execution** (many running timelines)
+
+This enables:
+- persistent identity
+- branching narratives
+- multiple coexisting realities of the same world
